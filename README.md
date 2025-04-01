@@ -8,5 +8,4 @@
 
  The project is intended to run on Ubuntu 24.04 using Python 3.9. The following Python packages are required:
 
-- PyCryptodome
 - Charm-Crypto (https://github.com/JHUISI/charm)
